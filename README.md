@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and the no-code movement
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing yet!
-- 📫 How to reach me: by email: pablobooks67@gmail.com
+- 📫 How to reach me - my discord username is pablo g#4477
 
 <!---
 its-pablo/its-pablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
