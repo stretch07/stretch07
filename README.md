@@ -8,3 +8,4 @@
 - 🌱 I’m currently mastering JavaScript and the document object model (DOM)
 - ✨ Something fun about me is that 🐐's are my favorite animal
 - 📫 How to reach me - idk... do you need to?
+![](https://komarev.com/ghpvc/?username=its-pablo)
