@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103">     </p>
 
-- 🔭 I’m currently working on [windows 99 (private)](windows99dev.vercel.app)
+- 🔭 I’m currently working on [windows99 (private)](windows99dev.vercel.app)
 
-- 🌱 I’m currently learning **JavaScript DOM, NodeJS, PostgreSQL**
+- 🌱 I’m currently learning **JavaScript DOM, NodeJS, PostgreSQL, and SQL in general**
 
-- 👯 I’m looking to collaborate on **windows 99 (contact me)**
+- 👯 I’m looking to collaborate on **windows99 (contact me)**
 
-- 🤝 I’m looking for help with **windows 99 (again, contact me)**
+- 🤝 I’m looking for help with **windows 99**
 
-- 👨‍💻 All of my projects are available on github [https://github.com/its-pablo](https://github.com/its-pablo)
+- 👨‍💻 All of my projects are available on this here github.
 
 - 💬 Ask me about **among us**
 
