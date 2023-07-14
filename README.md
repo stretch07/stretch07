@@ -8,6 +8,7 @@ favorite threatening quote: 'mess with the best, die like the rest' - Hackers (1
 
 don't believe the profile view count below, I DDOSed it and the creators realized so they reset it at zero :(  
 ![THE FUCKIN IMAGE DIDNT LOADDDD](https://komarev.com/ghpvc/?username=stretch07)  
+![](https://hit.yhype.me/github/profile?user_id=78528552)  
 ### **lots of my stuff is in the organizations open99-community and win93-community**
 and most stuff I make is closed source
 
