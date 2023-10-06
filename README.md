@@ -9,5 +9,5 @@ the most developer of all time
 and most stuff I make is closed source
 ## huge project list here >> https://stretch.wtf/projects
 
-stats below :  
+stats below: (for some reason these are very wrong)  
 [![stretch's GitHub stats](https://github-readme-stats.vercel.app/api?username=stretch07)](https://github.com/anuraghazra/github-readme-stats)
